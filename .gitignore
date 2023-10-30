@@ -4,6 +4,7 @@
 
 # ignore vscode files
 .vscode/
+test/
 SmartPtr/smart_ptr
 SmartPtr/test
 
